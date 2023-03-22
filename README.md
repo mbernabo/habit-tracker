@@ -1,2 +1,2 @@
 # habit-tracker
- Un pequeño programa para seguir tus hábitos
+ Un pequeño programa para seguir tus hábitos.
